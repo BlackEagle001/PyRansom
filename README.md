@@ -6,10 +6,10 @@ PyRansom is a POC of ransomware in python. Its sole purpose is educational, by t
 ## FRANCAIS
 PyRansom est un POC de ransomware en python. Son unique but est éducatif, en voulant prouver la facilité de création de ce type de malware. Le type de chiffrement utilisé est AES.
 
-Il a été créer dans le cadre du projet de site web [Pignus](https://github.com/BlackEagle001/Pignus). L'utilisation du 
+Il a été créer dans le cadre du projet de site web [Pignus](https://github.com/BlackEagle001/Pignus).
 
 ### Législation
-L'exécution de ce logiciel est à la responsabilitée de l'utilisateur. Veuillez l'utiliser sur un système informatique vous appartenant ou dont vous avez l'autorisation du propriétaire et il est illégale de l'exploiter sur tout autre système informatique.
+L'exécution de ce logiciel est à la responsabilitée de l'utilisateur. Son unique but est éducatif. Veuillez l'utiliser sur un système informatique vous appartenant ou dont vous avez l'autorisation du propriétaire et il est illégale de l'exploiter sur tout autre système informatique.
 
 ### Ficheirs
 #### Ransomware
