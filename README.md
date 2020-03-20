@@ -1,5 +1,7 @@
-# PyRansom
+# **Warning** 
+I move to GitLab's website. The projects are available on [GitLab](https://gitlab.com/o101010) and the GitHub's versions are pass to read-only mode.
 
+# PyRansom
 ## ENGLISH
 PyRansom is a POC of ransomware in python. Its sole purpose is educational, by trying to prove the ease of creating this type of malware. 
 
